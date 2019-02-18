@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## References:
+
+Tutorial used to create this repository:<br>
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
+
+Firebase Documentation (Cloud Firestore vs Realtime Database)<br>
+I demoed with the realtime database, but Firebase recommends their newer "Cloud Firestore" service.<br>
+https://firebase.google.com/docs/firestore/rtdb-vs-firestore
+
+For a fantastic Material Design framework to pair with React, checkout Material-UI<br>
+https://material-ui.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
